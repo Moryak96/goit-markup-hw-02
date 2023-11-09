@@ -51,3 +51,8 @@ text-decoration: none;
     color: #434455;
     text-decoration: none;
 }
+
+.contacts:hover,
+.contacts:focus {
+    color: #404bbf;
+}
